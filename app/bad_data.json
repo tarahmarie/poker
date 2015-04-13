@@ -1,0 +1,12 @@
+    {
+        "hands": [
+            {
+                "name": "Antonio",
+                "hand": [ "4H", "", "6S", "7S", "8S" ]
+            },
+            {
+                "name": "Barry",
+                "hand": [ "3H", "4H", "5H", "6H", "7C" ]
+            }
+        ]
+    }
